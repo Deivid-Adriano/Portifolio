@@ -1,2 +1,3 @@
 # Portifolio
-Repositório criado para divulgar projetos pessoais
+Repositório criado para divulgar projetos pessoais!
+Em andamento...
